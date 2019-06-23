@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT zombie_tensey_5052.wsgi:application

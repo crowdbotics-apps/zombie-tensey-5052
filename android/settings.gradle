@@ -1,0 +1,3 @@
+rootProject.name = 'zombie_tensey_5052'
+
+include ':app'
